@@ -1,0 +1,27 @@
+{
+  "name": "logforging",
+  "version": "1.0.0",
+  "description": "Log Forging",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tohammad/node-logforging.git"
+  },
+  "keywords": [
+    "Log",
+    "Forging"
+  ],
+  "author": "Hammad Mustafa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tohammad/node-logforging/issues"
+  },
+  "homepage": "https://github.com/tohammad/node-logforging#readme",
+  "dependencies": {
+    "log4js": "^6.1.0"
+  }
+}
